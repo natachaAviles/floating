@@ -1,0 +1,26 @@
+/* Pon tu código css aqui */
+
+.contenedor {
+	width:700px;
+	border:1px solid black; 
+}
+.amarillo {
+	width:200px;
+	height:150px;
+	background-color:#FCE524;
+	float:right;
+
+}
+.azul {
+	width:200px;
+	height:150px;
+	background-color:#1497E2;
+	float:right;
+
+}
+.rosado {
+	width:200px;
+	height:150px;
+	background-color:#EA058C;
+	float:right;
+}
